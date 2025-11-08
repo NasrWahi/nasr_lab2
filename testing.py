@@ -1,4 +1,4 @@
-# \n=== for cleaner look, recommended by Copilot
+# \n=== for cleaner look, recommended by Copilot, pseudo-code also changed
 
 # Import our shape classes
 from circle import Circle
